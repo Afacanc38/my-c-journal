@@ -29,7 +29,7 @@ int main() {
       /*
        * bu kod bloğu else gibi çalışmaktadır.
        */
-      print("Çıkmaz ayın çıkmaz günü.")
+      printf("Çıkmaz ayın çıkmaz günü.\n");
   }
 
   return 0;
