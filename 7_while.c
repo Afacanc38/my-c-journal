@@ -52,7 +52,7 @@ int main() {
      * değişkenin değerini değiştirirken
      * sonuna koymak değişkeni değiştirmez.
      *
-     * Bu yüzden döngülerde bu şekilde
+     * Bu yüzden döngülerde ++'yı başında
      * kullanmak doğrudur.
      */
   }
