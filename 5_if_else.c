@@ -37,7 +37,10 @@ int main() {
    * kısa yazmaya yarar. javascript bilenler
    * için tanıdık gelmiş olabilir.
    * if-else'leri yazarken her iki türlü de
-   * yazabilirsiniz.
+   * yazabilirsiniz. bunlar genellikle
+   * void'lerde kullanılıyormuş.
+   * henüz fonksiyonlara gelmediğimden
+   * dolayı (şimdilik) bilmiyorum. :)
    */
   (15 < 18) ? printf("İyi günler.\n") : printf("İyi akşamlar.\n");
 
