@@ -38,9 +38,10 @@ int main() {
    * için tanıdık gelmiş olabilir.
    * if-else'leri yazarken her iki türlü de
    * yazabilirsiniz. bunlar genellikle
-   * void'lerde kullanılıyormuş.
-   * henüz fonksiyonlara gelmediğimden
-   * dolayı (şimdilik) bilmiyorum. :)
+   * değer döndüren fonksiyonlarda 
+   * kullanılıyormuş. henüz fonksiyonlara 
+   * gelmediğimdem dolayı (şimdilik) 
+   * bilmiyorum. :)
    */
   (15 < 18) ? printf("İyi günler.\n") : printf("İyi akşamlar.\n");
 
