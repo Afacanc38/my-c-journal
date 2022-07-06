@@ -30,7 +30,6 @@ int main() {
        * bu kod bloğu else gibi çalışmaktadır.
        */
       printf("Çıkmaz ayın çıkmaz günü.\n");
-      break;
   }
 
   return 0;
