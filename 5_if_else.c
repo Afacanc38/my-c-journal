@@ -42,6 +42,7 @@ int main() {
    * kullanılıyormuş. henüz fonksiyonlara 
    * gelmediğimdem dolayı (şimdilik) 
    * bilmiyorum. :)
+   * (bkz. sourn #1)
    */
   (15 < 18) ? printf("İyi günler.\n") : printf("İyi akşamlar.\n");
 
